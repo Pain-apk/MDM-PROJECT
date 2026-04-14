@@ -77,6 +77,4 @@ npm run build
 - **Custom Animations:** Hand-crafted `fadeUp` and `shimmer` keyframes.
 - **Theming:** Minimalist "Paper & Ink" theme with gold highlights.
 
-## 📸 Screenshots
 
-*(Add screenshots here to showcase the editorial UI)*
